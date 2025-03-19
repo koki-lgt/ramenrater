@@ -3,15 +3,14 @@ const ramens = [
     id: 1,
     name: "Shoyu Ramen",
     restaurant: "Ichiran",
-    image: "",
-    rating: 5,
+    image: "assets/images/WhatsApp Image 2025-03-17 at 23.01.06 (1).jpeg",
     comment: "Delicious!",
   },
   {
     id: 2,
     name: "Miso Ramen",
     restaurant: "Menya",
-    image: "miso ramen.jpeg",
+    image: "assets/images/WhatsApp Image 2025-03-17 at 23.01.06.jpeg",
     rating: 4,
     comment: "Very flavorful!",
   },
@@ -19,11 +18,9 @@ const ramens = [
     id: 3,
     name: "Tonkotsu Ramen",
     restaurant: "Ramen-ya",
-    image: "tonokotsu ramen.jpeg",
+    image: "assets/images/WhatsApp Image 2025-03-17 at 23.01.07.jpeg",
     rating: 7,
-    comment: "tasty!"
-
-
+    comment: "tasty!",
   },
 ];
 
